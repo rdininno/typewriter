@@ -1,6 +1,5 @@
 const sentence = "hello there from lighthouse labs";
 let counter = 0;
-const length = sentence.length;
 
 for (let char in sentence) {
   setTimeout(() => {
